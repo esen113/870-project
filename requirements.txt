@@ -14,4 +14,3 @@ tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.17.1
 tensorflow-probability==0.25.0
 tensorflow-text==2.18.1
-tensorflow_decision_forests==1.11.0
